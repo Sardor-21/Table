@@ -1,0 +1,30 @@
+.container {
+    max-width: 1430px;
+}
+
+.tbody {
+tr {
+    td {
+        font-size: 13px;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        vertical-align: middle;
+        p {
+            margin: 0px;
+            padding: 0px;
+        }
+        .name {
+            color: green;
+        }
+        .username{
+            color: red;
+        }
+    }
+}
+}
+.error {
+    color: red;
+}
+.error1 {
+    color: green;
+}

@@ -1,0 +1,30 @@
+.container {
+  max-width: 1430px;
+}
+
+.tbody tr td {
+  font-size: 13px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  vertical-align: middle;
+}
+.tbody tr td p {
+  margin: 0px;
+  padding: 0px;
+}
+.tbody tr td .name {
+  color: green;
+}
+.tbody tr td .username {
+  color: red;
+}
+
+.error {
+  color: red;
+}
+
+.error1 {
+  color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
